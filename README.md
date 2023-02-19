@@ -1,7 +1,7 @@
 # COSC4370
 
-I like Computer Graphics so much! \n
+I like Computer Graphics so much!
 
-UH PSID 1777469 \n
+UH PSID 1777469
 
 Student ID vhpham22
