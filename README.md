@@ -1,3 +1,4 @@
 # COSC4370
 
-I like Compuer Graphics so much!
+I like Computer Graphics so much!
+UH PSID 1777469
