@@ -1,0 +1,8 @@
+Midpoint formula and pseudocode:
+Computer graphics: principles and practice in C, by Foley J.D. et al., 2nd Edition, 1996, page 88-90.
+
+Geeksforgeeks
+https://stackoverflow.com/questions/10322341/simple-algorithm-for-drawing-filled-ellipse-in-c-c
+Did not actually use any code from these sites, helped with understanding the math though. 
+
+My friend from Vancouver who has a CS Major, didn't actually help much but she helped make sense of the assignment and gave me the textbook
