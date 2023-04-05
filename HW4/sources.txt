@@ -1,0 +1,9 @@
+https://learnopengl.com/Advanced-OpenGL/Cubemaps
+http://www.opengl-tutorial.org/beginners-tutorials/tutorial-5-a-textured-cube/
+
+Many of the sources from HW3 were also relevant to HW4, so sources have been listed below
+
+https://learnopengl.com/code_viewer.php?code=lighting/basic_lighting-exercise2
+https://www.geertarien.com/blog/2017/07/30/breakdown-of-the-lookAt-function-in-OpenGL/
+http://www.songho.ca/opengl/gl_projectionmatrix.html
+https://learnopengl.com/Lighting/Multiple-lights
